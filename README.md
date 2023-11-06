@@ -5,7 +5,7 @@
 ## Demonstração
 
 <img src="/assets/anime.gif" width="500" height="350">
-[Clique aqui](https://ogustavoborges.github.io/Anime.js/)
+-> [Clique aqui](https://ogustavoborges.github.io/Anime.js/)
 
 ## Apresentação
 
