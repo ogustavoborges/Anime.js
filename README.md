@@ -11,7 +11,7 @@
 
 Apresentação criada para cadeira de Web Design do curso de Sistemas para Internet do IFRS. Com o intuito de apresentar para os colegas essa biblioteca de animação.
 
-img
+<img src="/assets/slides.gif">
 
 
 ## Referência
