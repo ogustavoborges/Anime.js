@@ -3,7 +3,7 @@
 É uma biblioteca de animação JavaScript leve com uma API simples, mas poderosa. Possibilita a criação de animações, tornando a página web interativa e mais atraente. 
 ## Demonstração
 
-<img src="/assets/anime.gif">
+<img src="/assets/anime.gif" width="300">
 
 
 ## Apresentação
