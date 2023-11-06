@@ -10,7 +10,7 @@
 ## Apresentação
 
 
-Apresentação criada para cadeira de Web Design do curso de Sistemas para Internet do IFRS. Com o intuito de apresentar para os colegas essa biblioteca de animação.
+Apresentação criada para cadeira de Web Design do curso de Sistemas para Internet do IFRS. Com o intuito de apresentar para os demais colegas da turma, a simples utilização dessa biblioteca de animação.
 
 <img src="/assets/slides.gif">
 
